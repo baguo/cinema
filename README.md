@@ -1,2 +1,2 @@
 # cinema
-demo cinema info
+cinema
